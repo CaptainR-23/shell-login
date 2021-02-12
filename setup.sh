@@ -1,5 +1,5 @@
 echo "-----------------------------------------------------"
-echo "          TERMUX LOGIN BY Punit.        "
+echo "          TERMUX LOGIN BY CaptainR.        "
 echo "It will take some time to install please be patience"
 echo "-----------------------------------------------------"
 
