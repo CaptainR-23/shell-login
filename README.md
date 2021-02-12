@@ -17,7 +17,7 @@ This script is for security or lock in termux
 
 ``apt update``
 ``apt install git ``
-``git clone https://github.com/Punit-art/shell-login.git``
+``git clone https://github.com/CaptainR-23/shell-login.git``
 ``cd shell-login``
 ``chmod +x setup.sh login.sh``
 ``bash setup.sh``
@@ -31,10 +31,7 @@ This script is for security or lock in termux
 **If you entered password incorrect or name i can't help you**
 
 # Contributers
-Punit-art (only)
+CaptainR-23 (only)
 
 # Publisher
-Aditya dangwal
-
-# YouTube Video
-https://youtu.be/1ls2RYNEATM
+Rahul Roy
